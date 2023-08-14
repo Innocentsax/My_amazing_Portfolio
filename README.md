@@ -1,4 +1,4 @@
-# MY 3D PORTFOLIO
+# MY 3D PORTFOLIO: [Click me! to view](https://innocentudo.netlify.app/)
 ### ___Wecome-page___
 <img src="https://github.com/Innocentsax/Innocentsax/blob/main/InnocentUdo_portfolio.png">
 
