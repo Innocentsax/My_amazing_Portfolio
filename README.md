@@ -12,20 +12,12 @@
 ### ___Tools and Languages___
 <img src="https://github.com/Innocentsax/Innocentsax/blob/main/Tools_and_Languages.png">
 
-### ___Overview___
-<img src="https://github.com/Innocentsax/Innocentsax/blob/main/InnocentUdo_portfolio.png">
+### ___Project___
+<img src="https://github.com/Innocentsax/Innocentsax/blob/main/Projects.png">
 
-### ___Overview___
-<img src="https://github.com/Innocentsax/Innocentsax/blob/main/InnocentUdo_portfolio.png">
+### ___Contact me___
+<img src="https://github.com/Innocentsax/Innocentsax/blob/main/Contacts_Me.png">
 
-### ___Overview___
-<img src="https://github.com/Innocentsax/Innocentsax/blob/main/InnocentUdo_portfolio.png">
-
-### ___Overview___
-<img src="https://github.com/Innocentsax/Innocentsax/blob/main/InnocentUdo_portfolio.png">
-
-### ___Overview___
-<img src="https://github.com/Innocentsax/Innocentsax/blob/main/InnocentUdo_portfolio.png">
 
 
 ## Tools
